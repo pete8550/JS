@@ -1,0 +1,21 @@
+{
+    "name": "express-dummy",
+    "version": "0.0.1",
+    "description": "Det er en undervisningsdummy",
+    "main": "login.js",
+    "scripts": {
+      "start": "node login.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "beginner",
+      "nodejs",
+      "express"
+    ],
+    "author": "András Ács",
+    "license": "ISC",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1"
+    }
+  }
